@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Andrew-devcoder" >
     <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api?username=andrii-kovpak-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api/top-langs/?username=abdrii-kovpak-dev&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://stats-andrew-devcoder.vercel.app/api/top-langs/?username=andrii-kovpak-dev&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
