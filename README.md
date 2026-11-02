@@ -40,7 +40,32 @@
 </picture>
 
 
-## 📂 Projects
+## 🚀 Featured Product
+
+### Nachhilfe Sys
+
+**Less admin. More teaching.**
+
+Nachhilfe Sys helps private tutors manage students, lessons, payments and reminders in one place.
+
+No spreadsheets. No scattered notes. No unnecessary complexity.
+
+Everything you need to keep your tutoring organized, clear and under control.
+
+**What you can do:**
+- Manage students
+- Plan and track lessons
+- Keep an overview of payments
+- Track paid and unpaid lessons
+- Send payment reminders
+- Keep your tutoring workflow in one place
+
+### 👉 [Open Nachhilfe Sys](https://nachhilfe-sys.andrii-kovpak.dev)
+
+[🇩🇪 Deutsch](./README.de.md)
+
+
+---
 
 # [Iren App](https://iren.andrii-kovpak.dev/)
 
